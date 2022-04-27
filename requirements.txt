@@ -1,0 +1,10 @@
+cmake
+numpy
+imutils==0.5.4
+opencv-contrib-python
+tensorflow-cpu==2.5.0
+scikit-learn
+face_recognition
+flask
+dlib
+flask_sqlalchemy
